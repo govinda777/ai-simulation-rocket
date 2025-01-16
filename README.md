@@ -1,223 +1,175 @@
-# Xperience DAO Platform
+# 🚀 Rocket AI Simulation
 
-<p align="center">
-    <img src="assets/logo.jpg" height="150px" alt="Xperience Logo" />
-</p>
+## 📌 Descrição
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-blue)](https://discord.gg/xperience)
-[![Documentation](https://img.shields.io/badge/Xperience_Docs-Read_Now-00B4DB)](https://docs.xperience.dao)
-[![Figma Site](public/business_model_canvas.jpeg)](https://www.figma.com/proto/rreMluYljxGrLOU8Zbbkv8/Xperience---handoff?page-id=94%3A331&node-id=2271-9744&node-type=frame&viewport=-14319%2C-15975%2C0.27&t=7xqRHxPo1CsISzv9-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2271%3A9744)
-[![Figma Bussiness Canvas](public/bunner.jpeg)](https://www.figma.com/board/X9f1GSq2qGlbHBUgaq58sp/Xperience---Design?node-id=0-1&t=L9x5n45sshhtOD0W-1)
+Este projeto apresenta uma abordagem avançada para a simulação de veículos espaciais utilizando Inteligência Artificial (IA) para otimizar os processos de decolagem, navegação e pouso. A metodologia emprega **Redes Neurais Artificiais** e **Estratégias Evolutivas** para modelar e aperfeiçoar o comportamento do sistema ao longo de múltiplas iterações adaptativas.
 
-> Uma consultoria empresarial descomplicada que utiliza DAO e estratégia do Oceano Azul para tornar a concorrência irrelevante, disponível também como template para criar sua própria versão.
+## 📊 Diagrama da Rede Neural
 
-## 🌊 Visão Geral
+Abaixo está um diagrama representando a arquitetura da rede neural utilizada para o controle do foguete:
 
-A Xperience representa uma revolução no mercado de consultoria empresarial, combinando metodologias inovadoras com tecnologia descentralizada para transformar a maneira como as empresas abordam seus desafios e oportunidades.
-
-## 📚 Nossa Dupla Proposta de Valor
-
-### 1. Consultoria Empresarial Inovadora
-
-Oferecemos uma abordagem única e descomplicada para consultoria empresarial, focada em resultados tangíveis e inovação sustentável.
-
-#### Serviços Principais
-- **Análise Estratégica do Oceano Azul**
-  - Identificação de novos espaços de mercado
-  - Mapeamento de oportunidades inexploradas
-  - Desenvolvimento de propostas de valor únicas
-
-- **Documentação e Gestão do Conhecimento**
-  - Captura sistemática de informações estratégicas
-  - Organização de conhecimento empresarial
-  - Criação de playbooks operacionais
-
-- **Design de Experiências**
-  - Desenvolvimento de jornadas do cliente
-  - Criação de momentos memoráveis
-  - Implementação de pontos de contato únicos
-
-- **Transformação Competitiva**
-  - Análise de diferenciação estratégica
-  - Desenvolvimento de vantagens competitivas
-  - Implementação de estratégias disruptivas
-
-#### Metodologia
-1. **Diagnóstico Inicial**
-   - Análise situacional
-   - Identificação de oportunidades
-   - Mapeamento de recursos
-
-2. **Desenvolvimento Estratégico**
-   - Criação de planos de ação
-   - Definição de métricas
-   - Estabelecimento de marcos
-
-3. **Implementação Guiada**
-   - Acompanhamento hands-on
-   - Ajustes em tempo real
-   - Mentoria contínua
-
-4. **Monitoramento e Ajustes**
-   - Avaliação de resultados
-   - Refinamento de estratégias
-   - Otimização contínua
-
-### 2. Template DAO Revolucionário
-
-Disponibilizamos nossa infraestrutura completa como um template personalizável, permitindo que outros empreendedores criem suas próprias consultorias descentralizadas.
-
-#### Componentes do Template
-
-##### A. Sistema de Governança DAO
-- Mecanismos de votação transparentes
-- Gestão descentralizada de recursos
-- Tomada de decisão colaborativa
-
-##### B. Plataforma Tecnológica
-- **Frontend Modular**
-  - Interface personalizável
-  - Componentes reutilizáveis
-  - Design responsivo
-
-- **Backend Robusto**
-  - APIs escaláveis
-  - Integração blockchain
-  - Sistema de cache otimizado
-
-- **Inteligência Artificial**
-  - Análise preditiva
-  - Processamento de linguagem natural
-  - Recomendações automatizadas
-
-##### C. Integrações
-- **Telegram Web App (TWA)**
-  - Bot personalizado
-  - Interface integrada
-  - Notificações em tempo real
-
-- **Smart Contracts**
-  - Governança automatizada
-  - Gestão de tokens
-  - Sistema de recompensas
-
-##### D. Ferramentas de Análise
-- Dashboard personalizado
-- Métricas em tempo real
-- Relatórios automatizados
-
-## 🎯 Para Quem é a Xperience?
-
-### Consultoria
-- Empresas buscando inovação estratégica
-- Organizações em transformação
-- Negócios procurando diferenciação
-- Startups em fase de crescimento
-
-### Template
-- Consultores independentes
-- Empresas de consultoria
-- Comunidades descentralizadas
-- Empreendedores inovadores
-
-## 🚀 Como Começar
-
-### Como Cliente
-1. **Agende uma Consulta**
-   ```bash
-   # Entre em contato através do nosso site
-   www.xperience.dao/consulta
-   ```
-
-2. **Participe do Diagnóstico**
-   - Avaliação inicial
-   - Definição de objetivos
-   - Planejamento estratégico
-
-3. **Inicie a Transformação**
-   - Implementação guiada
-   - Acompanhamento contínuo
-   - Resultados mensuráveis
-
-### Como Desenvolvedor
-1. **Use o Template**
-   ```bash
-   # Clone o repositório
-   git clone https://github.com/xperience-dao/platform.git
-   ```
-
-2. **Configure sua Versão**
-   ```bash
-   # Instale as dependências
-   npm install --registry https://registry.npmmirror.com
- 
-   # Configure o ambiente
-   cp .env.example .env
-
-   # Add dependencies
-   yarn add lucide-react --registry https://registry.npmmirror.com
-yarn add -D @testing-library/react@latest @testing-library/jest-dom@latest vitest --registry https://registry.npmmirror.com
-   ```
-
-3. **Personalize e Lance**
-   ```bash
-   # Inicie o desenvolvimento
-   npm run dev
-   ```
-
-## 💡 Casos de Sucesso
-
-- **Empresa A**: Transformação digital completa
-- **Empresa B**: Aumento de 150% em engajamento
-- **Empresa C**: Novo mercado conquistado
-
-## 🛠 Recursos Técnicos
-
-### Arquitetura
 ```
-xperience/
-├── src/
-│   ├── core/          # Núcleo da plataforma
-│   ├── modules/       # Módulos funcionais
-│   └── services/      # Serviços integrados
-└── docs/             # Documentação
+        Entrada                Camada Oculta                Saída
+   ┌───────────┐            ┌───────────┐            ┌───────────┐
+   │  Posição  │───┐      ┌▶│  Neurônio │───┐      ┌▶│  Empuxo   │
+   │ Velocidade│───┼──────┤ │  Oculto   │───┼──────┤ │ Inclinação│
+   │  Ângulo   │───┼──────┤ │  Oculto   │───┼──────┘ └───────────┘
+   │   Rotação │───┼──────┤ │  Oculto   │
+   │ Combustível│───┼──────┤ │  Oculto   │
+   │    Vento  │───┼──────┤ │  Oculto   │
+   │ Gravidade │───┘      └▶│  Oculto   │
+   └───────────┘            └───────────┘
 ```
 
-### Stack Tecnológico
-- Frontend: React/Vite
-- Backend: Node.js
-- Blockchain: Ethereum/Polygon
-- IA: TensorFlow/PyTorch
+A rede neural utilizada segue um modelo **feedforward**, onde os neurônios das camadas ocultas realizam cálculos para prever as melhores ações do foguete com base nos dados de entrada.
 
-## 📈 Roadmap
+## 🎯 Objetivo
 
-### 2024
-- Q1: Lançamento da plataforma base
-- Q2: Integração IA avançada
-- Q3: Expansão internacional
-- Q4: Novas verticais de negócio
+A simulação tem como propósito o desenvolvimento de um agente autônomo capaz de:
 
-## 🤝 Comunidade
+1. **Efetuar uma decolagem controlada**, minimizando desvios indesejados.
+2. **Executar manobras de navegação para coleta de múltiplos pontos de interesse**.
+3. **Realizar um pouso seguro e preciso em uma plataforma específica**, ajustando sua trajetória em tempo real.
 
-- [Discord](https://discord.gg/xperience)
-- [Telegram](https://t.me/xperience_dao)
-- [Forum](https://forum.xperience.dao)
+## 🛠️ Tecnologias e Modelos Empregados
 
-## 📞 Contato
+- **Python 3**
+- **Simulação Física Computacional** (Dinâmica Newtoniana, Empuxo, Torque, Arrasto Aerodinâmico, Perturbações Atmosféricas)
+- **Redes Neurais Artificiais Feedforward**
+- **Métodos de Otimização Evolutiva** (Seleção, Crossover e Mutação)
+- **Treinamento Supervisionado e Aprendizado por Reforço**
 
-- 📧 Email: contact@xperience.dao
-- 🐦 Twitter: [@XperienceDAO](https://twitter.com/XperienceDAO)
-- 🌐 Website: [xperience.dao](https://xperience.dao)
+## 📂 Estrutura do Projeto
 
-## 📜 Licença
+```
+rocket-ai-simulation/
+│── rocket_sim.py       # Implementação das equações de movimento e controle
+│── environment.py      # Simulação do ambiente (vento, gravidade, obstáculos)
+│── ai_trainer.py       # Algoritmo de aprendizado neural e evolução genética
+│── main.py             # Loop de treinamento e validação
+│── README.md           # Documentação do projeto
+```
 
-Este projeto está sob a licença MIT. Veja [LICENSE](./LICENSE) para mais detalhes.
+## 🚀 Execução da Simulação
+
+### 1️⃣ Instalar Dependências
+
+Para garantir a compatibilidade das bibliotecas utilizadas, instale os pacotes necessários:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2️⃣ Rodar a Simulação e Treinar a IA
+
+```bash
+python main.py
+```
+
+O treinamento ocorre iterativamente, onde a IA aprimora sua capacidade de controle por meio de métodos de otimização baseados em seleção e mutação genética. O processo pode exigir **centenas de gerações** para convergência ideal.
+
+### 3️⃣ Ajuste de Parâmetros (Opcional)
+
+É possível modificar variáveis como **intensidade dos ventos**, **quantidade de combustível inicial**, **capacidade de empuxo** e **distribuição da massa estrutural** para alterar a complexidade do problema e os desafios impostos ao modelo.
+
+## 🧠 Estrutura do Aprendizado de Máquina
+
+```mermaid
+graph LR;
+    subgraph Entrada
+        A1(Posição)
+        A2(Velocidade)
+        A3(Ângulo)
+        A4(Rotação)
+        A5(Combustível)
+        A6(Vento)
+        A7(Gravidade)
+    end
+    
+    subgraph Camada Oculta
+        B1(Neurônio 1)
+        B2(Neurônio 2)
+        B3(Neurônio 3)
+        B4(Neurônio 4)
+        B5(Neurônio 5)
+        B6(Neurônio 6)
+        B7(Neurônio 7)
+        B8(Neurônio 8)
+    end
+    
+    subgraph Saída
+        C1(Empuxo)
+        C2(Inclinação)
+    end
+    
+    A1 -->|Peso| B1
+    A1 -->|Peso| B2
+    A1 -->|Peso| B3
+    A2 -->|Peso| B1
+    A2 -->|Peso| B2
+    A2 -->|Peso| B3
+    A3 -->|Peso| B4
+    A3 -->|Peso| B5
+    A4 -->|Peso| B6
+    A5 -->|Peso| B7
+    A6 -->|Peso| B8
+    A7 -->|Peso| B8
+    
+    B1 -->|Ativação| C1
+    B2 -->|Ativação| C2
+    B3 -->|Ativação| C1
+    B4 -->|Ativação| C2
+    B5 -->|Ativação| C1
+    B6 -->|Ativação| C2
+    B7 -->|Ativação| C1
+    B8 -->|Ativação| C2
+```
+
+O processo de aprendizado da IA é baseado em um modelo de **rede neural artificial** acoplado a um **algoritmo de otimização evolutiva**, dividido nas seguintes etapas:
+
+1. **Aquisição de Dados Sensoriais:**
+   - O agente recebe dados contínuos sobre sua posição, velocidade, ângulo, taxa de rotação e nível de combustível.
+2. **Tomada de Decisão via Rede Neural:**
+   - O modelo computacional processa as informações e determina a magnitude do empuxo e a inclinação do foguete.
+3. **Avaliação de Performance:**
+   - Cada execução é quantificada por meio de métricas como:
+     - Eficiência na coleta de pontos.
+     - Precisão na estabilização da trajetória.
+     - Sucesso no pouso dentro dos limites definidos.
+4. **Otimização Genética:**
+   - A otimização genética no treinamento da IA baseia-se na aplicação de algoritmos evolutivos inspirados na teoria da seleção natural. Os indivíduos mais bem-sucedidos em uma geração, avaliados com base em métricas como precisão do pouso e eficiência de trajetória, são selecionados para reprodução.
+   - A reprodução ocorre por meio de **crossover**, onde os pesos das redes neurais dos pais são combinados para gerar novos indivíduos, permitindo a transmissão de características benéficas.
+   - A mutação desempenha um papel crucial no aumento da diversidade genética, introduzindo pequenas variações aleatórias nos parâmetros dos novos indivíduos. Isso evita a estagnação em mínimos locais e permite a exploração de soluções mais eficientes.
+   - O processo evolutivo se repete por múltiplas gerações, refinando progressivamente a capacidade da IA de controlar o foguete de forma otimizada.
+5. **Iteração até a Convergência:**
+   - O ciclo de aprendizado é repetido até que a IA atinja um nível aceitável de precisão e estabilidade nas manobras.
+
+O processo de aprendizado da IA é baseado em um modelo de **rede neural artificial** acoplado a um **algoritmo de otimização evolutiva**, dividido nas seguintes etapas:
+
+1. **Aquisição de Dados Sensoriais:**
+   - O agente recebe dados contínuos sobre sua posição, velocidade, ângulo, taxa de rotação e nível de combustível.
+2. **Tomada de Decisão via Rede Neural:**
+   - O modelo computacional processa as informações e determina a magnitude do empuxo e a inclinação do foguete.
+3. **Avaliação de Performance:**
+   - Cada execução é quantificada por meio de métricas como:
+     - Eficiência na coleta de pontos.
+     - Precisão na estabilização da trajetória.
+     - Sucesso no pouso dentro dos limites definidos.
+4. **Otimização Genética:**
+   - A otimização genética no treinamento da IA baseia-se na aplicação de algoritmos evolutivos inspirados na teoria da seleção natural. Os indivíduos mais bem-sucedidos em uma geração, avaliados com base em métricas como precisão do pouso e eficiência de trajetória, são selecionados para reprodução.
+   - A reprodução ocorre por meio de **crossover**, onde os pesos das redes neurais dos pais são combinados para gerar novos indivíduos, permitindo a transmissão de características benéficas.
+   - A mutação desempenha um papel crucial no aumento da diversidade genética, introduzindo pequenas variações aleatórias nos parâmetros dos novos indivíduos. Isso evita a estagnação em mínimos locais e permite a exploração de soluções mais eficientes.
+   - O processo evolutivo se repete por múltiplas gerações, refinando progressivamente a capacidade da IA de controlar o foguete de forma otimizada.
+5. **Iteração até a Convergência:**
+   - O ciclo de aprendizado é repetido até que a IA atinja um nível aceitável de precisão e estabilidade nas manobras.
+
+## 📌 Perspectivas para Extensões Futuras
+
+- 🌐 **Visualização Gráfica e Simulação 3D** via bibliotecas como Pygame ou OpenGL.
+- 🎮 **Módulo Competitivo Humano vs. IA** para validação comparativa.
+- 🛰️ **Ambientes Dinâmicos Avançados**, incluindo diferentes atmosferas planetárias e perturbações ambientais estocásticas.
 
 ---
 
-<p align="center">
-    <sub>Desenvolvido com 💙 pela comunidade Xperience DAO</sub>
-    <br>
-    <sub>Transformando a consultoria empresarial através da inovação descentralizada</sub>
-</p>
+**Este projeto visa contribuir para o desenvolvimento de algoritmos autônomos aplicados ao controle de veículos espaciais em condições adversas. 🚀🔬**
+
